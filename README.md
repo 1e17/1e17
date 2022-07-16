@@ -6,7 +6,7 @@ Require [
     Languages [
       Lua 
       Python 
-      Javacsript
+      Javascript
     ]
 ]
 ```
